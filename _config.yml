@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
-title: "Manual de Usuário"
-description: "Guia completo para utilização"
+title: Manual do Dataverse
+description: Manual do Dataverse
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-leap-day
