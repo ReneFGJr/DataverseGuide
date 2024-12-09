@@ -2,6 +2,6 @@
 layout: default
 title: Página Inicial
 ---
-{% include navbar.html %}
+{% include _layouts/navbar.html %}
 
 Bem-vindo ao Manual!
